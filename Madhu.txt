@@ -1,0 +1,7 @@
+This file is created for demo utilization/Testing purpose
+This is example text file
+Which is having nothing
+I just want a file 
+Adding some lines into this file
+To make as a file
+So that I can perform some operations/tasks
