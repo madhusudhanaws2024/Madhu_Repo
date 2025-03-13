@@ -1,0 +1,7 @@
+This file is in Madhu_Brnach1 branch
+I can all my modifications here
+I can create a pull request once all fine 
+And I can merge into the main branch
+Like that many branches and each branch may contain many commits as well
+Later point in future I can take a back-up/snapshot if required
+So that we can manage branches
